@@ -1,4 +1,5 @@
-# define
+# define / Made in Termux-Lab
+(https://vk.com/termuxlab) <br>
 git clone https://github.com/termux-lab/define.git <br>
 chmod 777 define <br>
 chmod 777 define/* <br>
