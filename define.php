@@ -1,9 +1,4 @@
 <?php
-$file = fopen("data.txt", "w+");
-fwrite($file, "");
-fclose($file);
-
-echo "DEFINE";
-echo "https://vk.com/termuxlab | termux - Lab";
+echo "DEFINE \r [https://vk.com/termuxlab | termux - Lab] \r";
 system("php -S 127.0.0.1:666");
 ?>
